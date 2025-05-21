@@ -41,7 +41,7 @@ I'm actively looking for an attachment where I can grow my technical and analyti
 
 Here are a few projects I'm working on or have contributed to:
 
-- 🔗 [**Data Dashboard in Power BI**](#) *(add real link when ready)*  
+- 🔗 [**ALX Learning Hub**](#) https://github.com/FelisterNdambia/ALX_DjangoLearnLab 
 - 🔗 [**Simple Backend Python App**](#)  
 - 🔗 [**SQL Database Design for Bookstore**](#)
 
