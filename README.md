@@ -19,9 +19,8 @@ I'm actively looking for an attachment where I can grow my technical and analyti
 
 ### 📄 My Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link-here.com)
+[![Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1lulCtIUsM7wv6UDILMka2MlsCe1nIPsF/view?usp=sharing)
 
-> Replace the link above with your actual resume link (from Google Drive or GitHub PDF)
 
 ---
 
